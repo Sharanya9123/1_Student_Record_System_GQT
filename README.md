@@ -1,1 +1,1 @@
-# 1_Student_Record_System_GQT
+# 1_Student_Record_System_GQT_Corejava
